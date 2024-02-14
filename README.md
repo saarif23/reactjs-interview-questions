@@ -10,22 +10,19 @@
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Core React**                                                                                                                                                                                                                |
 | 1   | [What is React?](#what-is-react)                                            
-   |
 | 3   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                                                                                                   |
 | 4   | [What is JSX?](#what-is-jsx)                                                                                                                                                                                                     |
 | 5   | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component)                                                                                               |
 | 8   | [What are Pure Components?](#what-are-pure-components)                                                                                                                                                                           |
 | 9   | [What is state in React?](#what-is-state-in-react)                                                                                                                                                                               |
-| 10   | [What are props in React?](#what-are-props-in-react)                                                                                                                                                                             |
+| 10  | [What are props in React?](#what-are-props-in-react)                                                                                                                                                                             |
 | 11  | [What is the difference between state and props?](#what-is-the-difference-between-state-and-props)             
-|
 | 13  | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)                                                                                   |
 | 14  | [What is the difference between HTML and React event handling?](#what-is-the-difference-between-html-and-react-event-handling)                                                                                                   |
 | 17  | [What are synthetic events in React?](#what-are-synthetic-events-in-react)                                                                                                                                                       |
 | 18  | [What are inline conditional expressions?](#what-are-inline-conditional-expressions)                                                                                                                                             |
 | 19  | [What is "key" prop and what is the benefit of using it in arrays of elements?](#what-is-key-prop-and-what-is-the-benefit-of-using-it-in-arrays-of-elements)                                                                     |
 | 20  | [What is the use of refs?](#what-is-the-use-of-refs)                                    
-|
 | 25  | [What is Virtual DOM?](#what-is-virtual-dom)                                                                                                                                                                                     |
 | 26  | [How Virtual DOM works?](#how-virtual-dom-works)                                                                                                                                                                                 |
 | 27  | [What is the difference between Shadow DOM and Virtual DOM?](#what-is-the-difference-between-shadow-dom-and-virtual-dom)                                                                                                         |
@@ -115,7 +112,6 @@
 | 222 | [What is React lazy function?](#what-is-react-lazy-function)                                                                                                                                                                       |
 | 226 | [What are hooks?](#what-are-hooks)                                                                       |
 | 234 | [What is the difference between try catch block and error boundaries?](#what-is-the-difference-between-try-catch-block-and-error-boundaries)          
-  |
 | 251 | [What is the benefit of strict mode?](#what-is-the-benefit-of-strict-mode)                                                                 |
 | 257 | [What is NextJS and major features of it?](#what-is-nextjs-and-major-features-of-it)                                                                                                                                             |
 | 258 | [How do you pass an event handler to a component?](#how-do-you-pass-an-event-handler-to-a-component)                                                                                            |
